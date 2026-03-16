@@ -59,3 +59,10 @@ body {}
   color: #fff;
   border-bottom-color: #fff;
 }
+
+
+
+.nav-menu {
+  background: black;
+  opacity: 90%;
+}
